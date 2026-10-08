@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex-sistema-pagamento-loja/1.0.0": {
+        "runtime": {
+          "ex-sistema-pagamento-loja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex-sistema-pagamento-loja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
